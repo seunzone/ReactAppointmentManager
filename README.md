@@ -1,2 +1,1 @@
-# ReactAppointmentManager
-An appointement management system built using REACTJS
+# Appointement Manager System Interface built with React
